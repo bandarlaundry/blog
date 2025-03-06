@@ -1,6 +1,6 @@
 ## Jasa Laundry Kiloan Di Sokaraja Banyumas
 _Diposting Pada:_ **5 Maret 2025**
-_Oleh:_ **Wahyudi**
+_Oleh:_  [**Wahyudi**]([https://pages.github.com/](https://bandarlaundry.github.io/blog/menu/wahyudi.html))
 
 Jika Anda tinggal di Sokaraja, Banyumas, atau daerah sekitarnya dan membutuhkan layanan laundry yang cepat, rapi, dan terjangkau, layanan laundry kiloan ini adalah solusi yang tepat untuk Anda. Dengan kemudahan layanan **antar jemput gratis** dan sistem pembayaran setelah pekerjaan selesai, Anda bisa menikmati kenyamanan tanpa harus repot pergi ke tempat laundry.
 
