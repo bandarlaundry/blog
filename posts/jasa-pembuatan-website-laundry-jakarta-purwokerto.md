@@ -5,6 +5,8 @@ _Oleh:_  [**Wahyudi**](https://bandarlaundry.github.io/blog/menu/wahyudi.html)
 
 Di era digital seperti sekarang, memiliki website bisnis yang profesional dan mudah diakses adalah hal yang sangat penting, termasuk bagi usaha laundry. Tidak hanya di kota besar seperti Jakarta, tetapi juga di kota-kota seperti Purwokerto, banyak usaha laundry yang kini menyadari pentingnya kehadiran _online_. Dengan menggunakan **jasa pembuatan website laundry**, Anda bisa mendapatkan desain website yang menarik, fungsional, dan tentunya terjangkau.
 
+![Jasa Pembuatan Website Laundry di Jakarta dan Purwokerto Desain Menarik dengan Harga Terjangkau](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-jasa-pembuatan-website-laundry.jpg)
+
 ### Kenapa Memilih Jasa Pembuatan Website Laundry?
 
 Memiliki **website laundry** bukan hanya soal memudahkan pelanggan untuk mengetahui informasi tentang layanan yang Anda tawarkan, tapi juga memberikan kesan profesional bagi bisnis Anda. Dengan _website_ yang baik, Anda dapat:
