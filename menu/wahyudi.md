@@ -1,5 +1,7 @@
 Siapa yang tidak ingin memiliki berbagai keahlian dan pengalaman dalam bidang yang beragam? Wahyudi adalah contoh nyata dari seseorang yang berhasil menggabungkan banyak passion dalam hidupnya. Seorang pengusaha laundry, blogger, peminat pemasaran online, dan pegiat AI, Wahyudi telah menunjukkan bahwa seseorang dapat memiliki berbagai peran dalam hidup dan tetap sukses. 
 
+![Wahyudi](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bd-wahyudi.jpg)
+
 ### Perjalanan Wahyudi Sebagai Pengusaha Laundry
 
 Wahyudi memulai perjalanan bisnisnya di dunia laundry dengan membuka usaha kmiaa laundry. Berawal dari kesadaran akan pentingnya layanan laundry yang berkualitas dan efisien, dia menciptakan tempat bagi masyarakat untuk menikmati layanan laundry yang rapi, bersih, dan tepat waktu. Wahyudi selalu memastikan bahwa setiap pakaian yang dicuci dan disetrika memiliki kualitas terbaik, serta menggunakan produk ramah lingkungan, agar pelanggan merasa puas dan nyaman.
