@@ -65,6 +65,10 @@ footer {
   margin-top: 2rem;
 }
 
+footer a {
+  color: white;
+}
+
 .footer-content {
   display: flex;
   justify-content: space-between;
