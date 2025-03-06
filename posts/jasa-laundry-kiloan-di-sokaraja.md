@@ -4,9 +4,7 @@ _Oleh:_ **Wahyudi**
 
 Jika Anda tinggal di Sokaraja, Banyumas, atau daerah sekitarnya dan membutuhkan layanan laundry yang cepat, rapi, dan terjangkau, layanan laundry kiloan ini adalah solusi yang tepat untuk Anda. Dengan kemudahan layanan **antar jemput gratis** dan sistem pembayaran setelah pekerjaan selesai, Anda bisa menikmati kenyamanan tanpa harus repot pergi ke tempat laundry.
 
-![Laundry kiloan di Sokaraja Banyumas.](https://raw.githubusercontent.com/bandardeterjen/banyumas/refs/heads/images/bd-banyumas-sokaraja.jpg))
-
-
+![Laundry kiloan di Sokaraja Banyumas.](https://raw.githubusercontent.com/bandardeterjen/banyumas/refs/heads/images/bd-banyumas-sokaraja.jpg)
 
 ### Layanan Laundry yang Terpercaya
 
