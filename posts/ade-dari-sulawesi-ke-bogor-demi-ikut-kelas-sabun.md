@@ -4,7 +4,7 @@ _Oleh:_  [**Wahyudi**](https://bandarlaundry.github.io/blog/menu/wahyudi.html)
 
 Ade, seorang pemuda asal Polewali Mandar, Sulawesi, yang tidak jauh dari Makassar, baru-baru ini mengikuti **Kelas Sabun** yang diselenggarakan di Bogor. Dengan semangat tinggi untuk memulai usaha mandiri, ia rela menempuh perjalanan jauh, bahkan naik pesawat terbang, demi belajar tentang pembuatan **Deterjen Laundry** dan **Parfum Laundry**. Ini adalah kisah inspiratif tentang tekad dan keberanian Ade dalam memulai langkah pertama menuju wirausaha.
 
-![Ade dari Sulawesi Bertekad Ikuti Kelas Sabun untuk Memulai Wirausaha](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-sokaraja-deterjen-laundry.webp)
+![Ade dari Sulawesi Bertekad Ikuti Kelas Sabun untuk Memulai Wirausaha](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-ade-dari-sulawesi-ke-bogor-demi-ikut-kelas-sabun.webp))
 
 > "Sejak lama saya tertarik untuk memulai usaha sendiri, dan saya merasa bisnis pembuatan sabun dan produk laundry memiliki potensi yang sangat besar. Saya mencari-cari referensi mengenai cara membuat produk laundry yang baik dan terjangkau, dan akhirnya saya menemukan informasi tentang **Kelas Sabun** ini," ujar Ade dengan antusias.
 
