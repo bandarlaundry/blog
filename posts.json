@@ -1,4 +1,4 @@
-<!-- posts.json -->
+
 [
   {
     "title": "My First Blog Post",
@@ -12,5 +12,5 @@
     "excerpt": "Another example blog post excerpt...",
     "url": "posts/post2.html"
   }
-  // Add more posts here
+
 ]
