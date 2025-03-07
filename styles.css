@@ -102,3 +102,28 @@ footer a {
 .post-list { margin-top: 2rem; }
 .post-item { margin-bottom: 2rem; }
 .post-item h3 { margin-bottom: 0.5rem; }
+
+/* Added to styles.css */
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 2rem 0;
+}
+
+.pagination button {
+  background: #333;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.pagination button.active {
+  background: #555;
+}
+
+.pagination button:disabled {
+  background: #999;
+  cursor: not-allowed;
+}
