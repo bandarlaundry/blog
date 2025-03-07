@@ -69,11 +69,6 @@ button:hover {
         document.getElementById('footer').innerHTML = data;
         document.getElementById('year').textContent = new Date().getFullYear();
       });
-
-    fetch('contact-html.html')
-      .then(response => response.text())
-       .then(data => document.getElementById('post-content').innerHTML = data);
-      });
   </script>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script src="/blog/cwa-ob.js"></script>
