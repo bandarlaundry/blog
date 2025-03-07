@@ -5,6 +5,13 @@
     "excerpt": "This is a short excerpt from the blog post...",
     "url": "/blog/posts/post1.html"
   }
+
+   {
+    "title": "My First Blog Post",
+    "date": "January 1, 2023",
+    "excerpt": "This is a short excerpt from the blog post...",
+    "url": "/blog/posts/post1.html"
+  }
 ]
 
 
