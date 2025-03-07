@@ -72,8 +72,7 @@ button:hover {
 
     fetch('contact-html.html')
       .then(response => response.text())
-      .then(text => {
-        document.getElementById('post-content').innerHTML = marked.parse(html);
+       .then(data => document.getElementById(''post-content').innerHTML = data);
       });
   </script>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
