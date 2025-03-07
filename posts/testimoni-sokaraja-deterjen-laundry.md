@@ -4,7 +4,7 @@ _Oleh:_  [**Wahyudi**](https://bandarlaundry.github.io/blog/menu/wahyudi.html)
 
 Bapak Agung, seorang pengusaha laundry asal Bukateja Purbalingga, baru-baru ini memutuskan untuk membeli **Sokaraja Deterjen Laundry** sebanyak 10 jerigen besar (50 liter). Keputusan ini diambil setelah Bapak Agung merasakan sendiri kualitas produk yang luar biasa dari deterjen ini. 
 
-![Testimonial: Bapak Agung dari Bukateja Purbalingga - Pengalaman Menggunakan Sokaraja Deterjen Laundry](/blog/images/bl-sokaraja-deterjen-laundry.webp)
+![Testimonial: Bapak Agung dari Bukateja Purbalingga - Pengalaman Menggunakan Sokaraja Deterjen Laundry](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-sokaraja-deterjen-laundry.webp)
 
 > "Saya sudah lama berkecimpung dalam dunia laundry, dan saya selalu mencari produk deterjen yang bisa memberikan hasil maksimal. Ketika pertama kali mencoba **Sokaraja Deterjen Laundry**, saya langsung merasa puas. Deterjen ini tidak hanya membuat pakaian bersih sempurna, tetapi juga memberikan wangi yang tahan lama, yang menjadi nilai tambah yang sangat penting dalam bisnis laundry. Bukan hanya untuk usaha laundry saya, saya juga merasa produk ini cocok digunakan untuk kebutuhan rumah tangga sehari-hari."
 
