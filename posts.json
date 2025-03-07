@@ -7,10 +7,10 @@
   }
 
    {
-    "title": "My First Blog Post",
+    "title": "My Second Blog Post",
     "date": "January 1, 2023",
     "excerpt": "This is a short excerpt from the blog post...",
-    "url": "/blog/posts/post1.html"
+    "url": "/blog/posts/post2.html"
   }
 ]
 
