@@ -11,7 +11,7 @@
   <div id="header"></div>
   
   <div class="content">
-    <h2>Latest Posts</h2>
+    <h2>Artikel Terbaru</h2>
     <div id="post-list" class="post-list"></div>
     <div id="pagination" class="pagination"></div>
   </div>
@@ -38,9 +38,9 @@
     }
 
     Promise.all([
-      loadElement('/blog/header.html', 'header'),
-      loadElement('/blog/footer.html', 'footer'),
-      fetch('/blog/posts.json').then(response => response.json())
+      loadElement('/header.html', 'header'),
+      loadElement('/footer.html', 'footer'),
+      fetch('/posts.json').then(response => response.json())
     ]).then(([_, __, posts]) => {
       document.getElementById('year').textContent = new Date().getFullYear();
 
