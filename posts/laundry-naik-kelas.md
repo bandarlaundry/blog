@@ -4,7 +4,7 @@ _Oleh:_  [**Wahyudi**](https://bandarlaundry.github.io/blog/menu/wahyudi.html)
 
 Industri laundry di Indonesia terus berkembang seiring dengan semakin tingginya permintaan akan layanan kebersihan pakaian. Namun, persaingan yang ketat dan beragamnya pilihan layanan membuat bisnis laundry harus bisa tampil lebih profesional agar tetap menarik perhatian pelanggan. Salah satu cara untuk mencapai hal ini adalah dengan memahami dan memanfaatkan berbagai ilmu yang ada dalam dunia laundry. Di sinilah **Laundry Naik Kelas** menjadi sangat penting
 
-![Laundry Naik Kelas](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/main/images/bl-laundry-naik-kelas.webp)
+![Laundry Naik Kelas]()
 
 ### Menjadi Lebih Profesional dalam Bisnis Laundry
 
