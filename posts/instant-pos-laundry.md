@@ -4,7 +4,7 @@ _Oleh:_  [**Wahyudi**](https://bandarlaundry.github.io/blog/menu/wahyudi.html)
 
 Mengelola bisnis laundry kini semakin mudah dengan hadirnya **Instant POS Laundry**, sebuah aplikasi kasir yang dirancang khusus untuk memenuhi kebutuhan operasional laundry Anda. Aplikasi ini menawarkan berbagai fitur yang mempermudah proses transaksi dan komunikasi dengan pelanggan. 
 
-![Laundry kiloan di Sokaraja Banyumas.](https://raw.githubusercontent.com/bandardeterjen/banyumas/refs/heads/images/bd-banyumas-sokaraja.jpg)
+![Instant POS Laundry Aplikasi Kasir Tanpa Ribet](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-instant-pos-laundry.webp)
 
 ### Fitur-Fitur Instant POS Laundry
 
