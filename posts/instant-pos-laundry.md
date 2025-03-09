@@ -31,7 +31,7 @@ Salah satu keunggulan utama **Instant POS Laundry** adalah keamanannya. Aplikasi
 
 | Demo Aplikasi |
 | ------------- | 
-| ![Demo Aplikasi](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/main/images/bl-demo-instant-laundry-pos.gif)  | 
+| ![Demo Aplikasi](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/main/images/bl-demo-aplikasi-laundry-instant-pos.gif)  | 
 
 **Instant POS Laundry** menyediakan demo gratis bagi Anda yang ingin mencobanya. Dengan demo gratis ini, Anda dapat memastikan bahwa aplikasi ini sesuai dengan kebutuhan bisnis laundry Anda sebelum memutuskan untuk menggunakan versi lengkapnya.
 
