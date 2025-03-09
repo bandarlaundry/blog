@@ -44,8 +44,21 @@ Iya, ada versi gratisnya
 </details>
 <details>
 <summary>Berapa harganya?</summary>
-Nanti saya kabari
-</details>
+**Rp 99.000/lifetime**
+-  Bayar sekali pakai selamanya 
+-  Tanpa  nama usaha
+-  Nama produk tulis manual
+-  Kirim ke WhatsApp 
+-  Cetak via bluetooth 
+-  Tanpa database
+
+**Rp 99.000/annual**
+-  Bayar tahunan 
+-  Ada nama usaha Anda 
+-  Harga produk otomatis 
+-  Kirim ke WhatsApp 
+-  Cetak via bluetooth 
+-  Tanpa database
 <details>
 <summary>Ada nomor telepon yang bisa dihubungi?</summary>
 Silahkan Whatsapp ke nomor [085773009666](https://wa.me/6285773009666)
