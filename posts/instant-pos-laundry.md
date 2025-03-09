@@ -44,7 +44,9 @@ Iya, ada versi gratisnya
 </details>
 <details>
 <summary>Berapa harganya?</summary>
+
 **Rp 99.000/lifetime**
+
 -  Bayar sekali pakai selamanya 
 -  Tanpa  nama usaha
 -  Nama produk tulis manual
@@ -53,6 +55,7 @@ Iya, ada versi gratisnya
 -  Tanpa database
 
 **Rp 99.000/annual**
+
 -  Bayar tahunan 
 -  Ada nama usaha Anda 
 -  Harga produk otomatis 
