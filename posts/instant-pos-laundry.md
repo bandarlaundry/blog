@@ -29,9 +29,27 @@ Salah satu keunggulan utama **Instant POS Laundry** adalah keamanannya. Aplikasi
 
 ### Gratis Demo
 
+| Demo Aplikasi |
+| ------------- | 
+| ![Demo Aplikasi](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/main/images/bl-demo-instant-laundry-pos.gif)  | 
+
 **Instant POS Laundry** menyediakan demo gratis bagi Anda yang ingin mencobanya. Dengan demo gratis ini, Anda dapat memastikan bahwa aplikasi ini sesuai dengan kebutuhan bisnis laundry Anda sebelum memutuskan untuk menggunakan versi lengkapnya.
 
 **Instant POS Laundry** adalah solusi kasir yang praktis dan efisien untuk bisnis laundry Anda. Dengan fitur-fitur seperti diskon dan _down payment_, harga otomatis, produk _custom_, pengiriman pesan massal WhatsApp, dan cetak via _Bluetooth_, aplikasi ini membantu meningkatkan produktivitas dan kepuasan pelanggan. Selain itu, keamanan data yang terjamin membuat Anda dapat mengelola bisnis dengan tenang.
+
+### Pertanyaan Yang Sering Diajukan (FAQ)
+<details>
+<summary>Apakah ini gratis?</summary>
+Iya, ada versi gratisnya
+</details>
+<details>
+<summary>Berapa harganya?</summary>
+Nanti saya kabari
+</details>
+<details>
+<summary>Ada nomor telepon yang bisa dihubungi?</summary>
+Silahkan Whatsapp ke nomor [085773009666](https://wa.me/6285773009666)
+</details>
 
 Jadi, tunggu apa lagi? Segera coba demo gratis **Instant POS Laundry** dan rasakan kemudahan serta keuntungannya dalam mengelola bisnis laundry Anda.
 
