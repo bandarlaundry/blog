@@ -9,19 +9,19 @@ Mengelola bisnis laundry kini semakin mudah dengan hadirnya **Instant POS Laundr
 ### Fitur-Fitur Instant POS Laundry
 
 1. **Discount dan DO (Down Payment)** :
-   - Instant POS Laundry mendukung pemberian diskon dan pengelolaan _down payment (DP)_ atau uang muka. Anda dapat dengan mudah mengatur potongan harga untuk promosi atau diskon loyalitas pelanggan. Selain itu, fitur _down payment_ memungkinkan pelanggan untuk melakukan pembayaran sebagian terlebih dahulu, memberikan fleksibilitas dalam transaksi.
+Instant POS Laundry mendukung pemberian diskon dan pengelolaan _down payment (DP)_ atau uang muka. Anda dapat dengan mudah mengatur potongan harga untuk promosi atau diskon loyalitas pelanggan. Selain itu, fitur _down payment_ memungkinkan pelanggan untuk melakukan pembayaran sebagian terlebih dahulu, memberikan fleksibilitas dalam transaksi.
 
 2. **Harga Otomatis**:
-   - Aplikasi ini dilengkapi dengan fitur penghitungan harga otomatis untuk layanan laundry kiloan maupun satuan. Anda hanya perlu memasukkan berat atau jumlah item, dan sistem akan secara otomatis menghitung total harga sesuai dengan tarif yang telah Anda tentukan. Fitur ini mengurangi risiko kesalahan perhitungan dan mempercepat proses transaksi.
+Aplikasi ini dilengkapi dengan fitur penghitungan harga otomatis untuk layanan laundry kiloan maupun satuan. Anda hanya perlu memasukkan berat atau jumlah item, dan sistem akan secara otomatis menghitung total harga sesuai dengan tarif yang telah Anda tentukan. Fitur ini mengurangi risiko kesalahan perhitungan dan mempercepat proses transaksi.
 
 3. **Tambah Produk Custom** :
-   - **Instant POS Laundry** memungkinkan Anda untuk menambahkan produk _custom_ yang tidak tersedia atau belum ter-_update_ dalam daftar layanan. Dengan fitur ini, Anda dapat dengan mudah menyesuaikan layanan laundry sesuai dengan kebutuhan dan permintaan pelanggan.
+**Instant POS Laundry** memungkinkan Anda untuk menambahkan produk _custom_ yang tidak tersedia atau belum ter-_update_ dalam daftar layanan. Dengan fitur ini, Anda dapat dengan mudah menyesuaikan layanan laundry sesuai dengan kebutuhan dan permintaan pelanggan.
 
 4. **Kirim ke Nomor Banyak WhatsApp** :
-   - Aplikasi ini mendukung pengiriman pesan ke beberapa orang melalui WhatsApp. Bila pelanggan belum ada di nomor kontak atau pelanggan enggan menuliskan nomor WA, bisa kirim ke nomor outlet laundry terlebih dahulu. Nanti diteruskan bila sudah ada kontaknya. Hal ini untuk meminimalisir kesalahan nomor dan pesan transaksi tidak terkirim.
+Aplikasi ini mendukung pengiriman pesan ke beberapa orang melalui WhatsApp. Bila pelanggan belum ada di nomor kontak atau pelanggan enggan menuliskan nomor WA, bisa kirim ke nomor outlet laundry terlebih dahulu. Nanti diteruskan bila sudah ada kontaknya. Hal ini untuk meminimalisir kesalahan nomor dan pesan transaksi tidak terkirim.
 
 5. **Cetak via Bluetooth** :
-   - **Instant POS Laundry** mendukung pencetakan struk transaksi melalui printer _Bluetooth_. Fitur ini memudahkan Anda dalam memberikan bukti transaksi kepada pelanggan dengan cepat dan praktis.
+**Instant POS Laundry** mendukung pencetakan struk transaksi melalui printer _Bluetooth_. Fitur ini memudahkan Anda dalam memberikan bukti transaksi kepada pelanggan dengan cepat dan praktis.
 
 ### Keamanan Data Terjamin
 
@@ -63,6 +63,10 @@ Iya, ada versi gratisnya
 -  Cetak via bluetooth 
 -  Tanpa database
 <details>
+   <details>
+<summary>Bisa transaski pihak ketiga?</summary>
+Bisa lewat ratakan https://ratakan.com/cart/direct/2025031020213038B158AEDE6D7887BFB0?aff=bezimeni.id@gmail.com
+</details>
 <summary>Ada nomor telepon yang bisa dihubungi?</summary>
 Silahkan Whatsapp ke nomor [085773009666](https://wa.me/6285773009666)
 </details>
