@@ -63,7 +63,7 @@ Iya, ada versi gratisnya
 -  Cetak via bluetooth 
 -  Tanpa database
 <details>
-   <details>
+<details>
 <summary>Bisa transaski pihak ketiga?</summary>
 Bisa lewat ratakan https://ratakan.com/cart/direct/2025031020213038B158AEDE6D7887BFB0?aff=bezimeni.id@gmail.com
 </details>
