@@ -10,12 +10,6 @@
 <body>
   <div id="header"></div>
   
-  <div class="container">
-    <h2>Kamus Laundry</h2>
-    <p>Cari istilah terkait laundry:</p>
-    <input type="text" id="searchInput" placeholder="Contoh: mesin cuci" />
-    <button id="searchButton">Cari</button>
-  </div>
   <div class="content">
     <div id="post-content"></div>
   </div>
@@ -44,29 +38,6 @@
           marked.parse(text);
       });
   </script>
-   <script>
-    function fetchDescription(query) {
-  fetch(`/api/search?q=${encodeURIComponent(query)}`)
-    .then(response => {
-      if (!response.ok) {
-        throw new Error('Istilah tidak ditemukan.');
-      }
-      return response.json();
-    })
-    .then(data => {
-      const resultDiv = document.getElementById('result');
-      resultDiv.innerHTML = `
-        <h3>${data.title}</h3>
-        <p>${data.extract || 'Deskripsi tidak tersedia.'}</p>
-      `;
-    })
-    .catch(error => {
-      const resultDiv = document.getElementById('result');
-      resultDiv.innerHTML = `<p style="color: red;">${error.message}</p>`;
-    });
-}
-  </script>
-  <script src="laundrydict.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </body>
 </html>
