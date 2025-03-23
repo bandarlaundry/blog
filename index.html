@@ -9,6 +9,14 @@
 </head>
 <body>
   <div id="header"></div>
+
+  <div class="container">
+    <h1>Kamus Laundry</h1>
+    <p>Cari istilah terkait laundry:</p>
+    <input type="text" id="searchInput" placeholder="Contoh: mesin cuci" />
+    <button id="searchButton">Cari</button>
+    <div id="result"></div>
+  </div>
   
   <div class="content">
     <h2>Postingan Terbaru</h2>
@@ -75,5 +83,28 @@
       location.reload();
     };
   </script>
+   <script>
+    function fetchDescription(query) {
+  fetch(`/api/search?q=${encodeURIComponent(query)}`)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Istilah tidak ditemukan.');
+      }
+      return response.json();
+    })
+    .then(data => {
+      const resultDiv = document.getElementById('result');
+      resultDiv.innerHTML = `
+        <h3>${data.title}</h3>
+        <p>${data.extract || 'Deskripsi tidak tersedia.'}</p>
+      `;
+    })
+    .catch(error => {
+      const resultDiv = document.getElementById('result');
+      resultDiv.innerHTML = `<p style="color: red;">${error.message}</p>`;
+    });
+}
+  </script>
+  <script src="laundrydict.js"></script>
 </body>
 </html>
