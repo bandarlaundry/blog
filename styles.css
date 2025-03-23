@@ -139,6 +139,7 @@ footer a {
 
 /* Dict */
 .container {
+  position: center;
   text-align: center;
   background: #fff;
   padding: 20px;
