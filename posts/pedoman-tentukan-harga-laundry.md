@@ -1,4 +1,6 @@
 # Pedoman Menentukan Daftar Harga Laundry Satuan untuk Usaha Laundry Pemula
+_Diposting Pada:_ **2 Juni 2026**
+_Oleh:_  [**Wahyudi**](https://bandarlaundry.github.io/blog/menu/wahyudi.html)
 
 Menentukan daftar harga laundry satuan membutuhkan perhitungan yang berbeda dengan laundry kiloan. Item seperti jas, bed cover, karpet, boneka, bantal, tas, sepatu, hingga kasur memerlukan penanganan khusus, waktu pengerjaan lebih lama, serta penggunaan bahan dan tenaga kerja yang lebih banyak. Karena itu, tarif laundry satuan umumnya lebih tinggi dibandingkan laundry kiloan.
 
@@ -17,6 +19,8 @@ Bagi pemilik usaha laundry pemula, memiliki daftar harga laundry satuan yang jel
 Laundry satuan adalah layanan pencucian yang menggunakan tarif per item, bukan berdasarkan berat. Sistem ini umum digunakan untuk barang dengan ukuran besar, bentuk khusus, atau memerlukan perlakuan berbeda.
 
 Contoh item laundry satuan antara lain jas, blazer, bed cover, karpet, boneka, mukena, gaun pesta, tas kulit, sepatu, gorden, serta springbed. Banyak outlet laundry profesional menggunakan sistem ini untuk layanan premium.
+
+![Pedoman Menentukan Daftar Harga Laundry Satuan untuk Usaha Laundry Pemula](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS-H_BNR_krcCKkXOppl1UILtBEZU64ayng9dn-vFoszzbbPUXXE_bMtwyOxLfvwbYT_1LXZaGnU0XrQY9q_gNxi-U9lkLwRM6FLFf-qIfK5LEVuJlPMGcmcoSefu0VnLXyExzs29Tt_lX4MoCJnUgLqMbLVe1qfdrW7vY9CgnUvjYGAVbg-MvipLXN8nw/w320-h213/bl-pedoman-menentukan-harga-laundry-satuan.png)
 
 ## Bagaimana Cara Menentukan Harga Laundry Satuan?
 
