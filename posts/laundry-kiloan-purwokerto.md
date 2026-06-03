@@ -1,3 +1,7 @@
+# Laundry Kiloan Gratis Antar Jemput Purwokerto 085773009666
+_Diposting Pada:_ **3 Juni 2026**
+_Oleh:_  [**Wahyudi**](https://bandarlaundry.github.io/blog/menu/wahyudi.html)
+
 Laundry kiloan gratis antar jemput di Purwokerto menjadi solusi praktis bagi masyarakat yang ingin pakaian bersih tanpa harus datang ke tempat laundry. Cukup hubungi atau kirim WhatsApp ke 085773009666, tim kami akan menjemput cucian ke lokasi Anda dan mengantarkannya kembali setelah selesai dicuci, disetrika, dan dirapikan.
 
 Layanan tersedia untuk laundry kiloan, laundry satuan, cuci karpet, cuci sepatu, bed cover, boneka, stroller bayi, koper, hingga spring bed. Area layanan mencakup Purwokerto, Sokaraja, Ajibarang, Baturraden, Cilongok, Kalibagor, Karanglewas, Kebasen, Kembaran, Jatilawang, Wangon, Sumpiuh, dan wilayah Banyumas lainnya.
