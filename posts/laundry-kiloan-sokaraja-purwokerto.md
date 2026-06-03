@@ -1,3 +1,7 @@
+# 085773009666 Laundry Kiloan dan Satuan di Sokaraja dan Purwokerto
+_Diposting Pada:_ **3 Juni 2026**
+_Oleh:_  [**Wahyudi**](https://bandarlaundry.github.io/blog/menu/wahyudi.html)
+
 Mencari laundry kiloan dan satuan di Sokaraja maupun Purwokerto yang praktis dan terjangkau? Sokaraja Laundry menyediakan layanan cuci pakaian kiloan mulai Rp8.000 per kilogram serta laundry satuan untuk berbagai jenis pakaian dengan hasil bersih, rapi, dan wangi. Pelanggan juga dapat memanfaatkan layanan antar jemput gratis melalui WhatsApp 085773009666.
 
 ## Ringkasan Poin Penting
