@@ -1,4 +1,7 @@
 # 085773009666 Pusat Laundry Kiloan Hemat Sunter, Kelapa Gading dan Kemayoran
+_Diposting Pada:_ **5 Juni 2026**
+_Oleh:_  [**Wahyudi**](https://bandarlaundry.github.io/blog/menu/wahyudi.html)
+
 Bandar Laundry melayani jasa laundry kiloan hemat di Sunter, Kelapa Gading, Kemayoran, Ancol, dan area sekitarnya dengan layanan antar jemput gratis minimal 5 kg. Proses pencucian dilakukan per pelanggan sehingga pakaian tidak dicampur dengan cucian pelanggan lain, membantu menjaga kebersihan, higienitas, serta kualitas hasil pencucian.
 
 Untuk informasi layanan, pemesanan penjemputan, atau konsultasi kebutuhan laundry, pelanggan dapat menghubungi nomor 085773009666 melalui telepon, WhatsApp, maupun SMS.
